@@ -40,6 +40,9 @@ Here can the Firebase functions be found that are necessary to successfully setu
 |Ausstehende Aktien in Mio. (verwässert)  | "Wertpapierdaten"  |  Income Statement > Weighted Average Shs Out (Dil) | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL  |   |
 |Ergebnis je Aktie verwässert   | "Wertpapierdaten"  | Income Statement > EPS Diluted | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL   |   |
 |Umsatz je Aktie   | "Wertpapierdaten"  | Company key metrics > Revenue per Share  | https://financialmodelingprep.com/api/v3/company-key-metrics/AAPL  |   |
-
+| Current Price   |   |   | https://financialmodelingprep.com/api/v3/stock/real-time-price/AAPL |   |
+| Estimated (Future) EPS-Growth Rate from Analysts   |   |   | ???  | Maybe not to relvant for automation  |
+| Current PE-Ratio   |   |   | https://financialmodelingprep.com/api/v3/company-key-metrics/AAPL |   |
+| Historical PE-Ratio   |   |   | https://financialmodelingprep.com/api/v3/company-key-metrics/AAPL | Maybe take average of PE-Ratios of last years  |
 
 
