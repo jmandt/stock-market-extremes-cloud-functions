@@ -29,17 +29,17 @@ Here can the Firebase functions be found that are necessary to successfully setu
 |Name (DE)|Source|Name (EN)|Finacial Modeling Prep API| Comments |
 |---|---|---|---|---|
 |Summe langfristiges Fremdkapital| Bilanz (Passiva)  | Balance Sheet > Long-term Debt  | https://financialmodelingprep.com/api/v3/financials/balance-sheet-statement/AAPL  |   |
-|Summe Eigenkapital   | Bilanz (Passiva)  | Balance Sheet > Total shareholders equity  |   |   |
-|Summe Passiva   | Bilanz (Passiva)  | Balance Sheet > Total liabilities  |   |   |
+|Summe Eigenkapital   | Bilanz (Passiva)  | Balance Sheet > Total shareholders equity  | https://financialmodelingprep.com/api/v3/financials/balance-sheet-statement/AAPL  |   |
+|Summe Passiva   | Bilanz (Passiva)  | Balance Sheet > Total liabilities  | https://financialmodelingprep.com/api/v3/financials/balance-sheet-statement/AAPL  |   |
 |Umsatz   | GuV  | Income Statement > Revenue  | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL  |   |
-|Operatives Ergebnis   | GuV  | Income Statement > Operating Income  |   |   |
-|Steuern vom Einkommen und vom Ertrag   | GuV | Income Statement > Income Tax Expense  |   |   |
-|Jahresüberschuss | GuV  | Income Statement > Gross Profit  |   |   |
+|Operatives Ergebnis   | GuV  | Income Statement > Operating Income  | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL  |   |
+|Steuern vom Einkommen und vom Ertrag   | GuV | Income Statement > Income Tax Expense  | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL  |   |
+|Jahresüberschuss | GuV  | Income Statement > Gross Profit  | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL  |   |
 |Cash flow   | Cashflow Statement  | Net cash flow | https://financialmodelingprep.com/api/v3/financials/cash-flow-statement/AAPL  |   |
-|Cashflow aus der Investitionstätigkeit   | Cashflow Statement | Investing Cash Flow  |   |   |
+|Cashflow aus der Investitionstätigkeit   | Cashflow Statement | Investing Cash Flow  | https://financialmodelingprep.com/api/v3/financials/cash-flow-statement/AAPL  |   |
 |Ausstehende Aktien in Mio. (verwässert)  | "Wertpapierdaten"  |  Income Statement > Weighted Average Shs Out | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL  |   |
-|Ergebnis je Aktie verwässert   | "Wertpapierdaten"  |   |   | Kann man auch berechnen  |
-|Umsatz je Aktie   | "Wertpapierdaten"  |   |   | Kann man auch berechnen |
+|Ergebnis je Aktie verwässert   | "Wertpapierdaten"  | Income Statement > EPS Diluted | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL   |   |
+|Umsatz je Aktie   | "Wertpapierdaten"  | Company key metrics > Revenue per Share  | https://financialmodelingprep.com/api/v3/company-key-metrics/AAPL  |   |
 
 
 
