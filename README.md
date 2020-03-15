@@ -37,7 +37,7 @@ Here can the Firebase functions be found that are necessary to successfully setu
 |Jahresüberschuss | GuV  | Income Statement > Gross Profit  | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL  |   |
 |Cash flow   | Cashflow Statement  | Net cash flow | https://financialmodelingprep.com/api/v3/financials/cash-flow-statement/AAPL  |   |
 |Cashflow aus der Investitionstätigkeit   | Cashflow Statement | Investing Cash Flow  | https://financialmodelingprep.com/api/v3/financials/cash-flow-statement/AAPL  |   |
-|Ausstehende Aktien in Mio. (verwässert)  | "Wertpapierdaten"  |  Income Statement > Weighted Average Shs Out | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL  |   |
+|Ausstehende Aktien in Mio. (verwässert)  | "Wertpapierdaten"  |  Income Statement > Weighted Average Shs Out (Dil) | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL  |   |
 |Ergebnis je Aktie verwässert   | "Wertpapierdaten"  | Income Statement > EPS Diluted | https://financialmodelingprep.com/api/v3/financials/income-statement/AAPL   |   |
 |Umsatz je Aktie   | "Wertpapierdaten"  | Company key metrics > Revenue per Share  | https://financialmodelingprep.com/api/v3/company-key-metrics/AAPL  |   |
 
